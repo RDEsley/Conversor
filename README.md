@@ -68,4 +68,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato  
 
 Autor: Richard Esley  
-E-mail: richardesleyso@gmail.com  
+[Richard Esley GitHub](https://github.com/RDEsley)
+[Richard Esley Email](https://richardesleyso@gmail.com)
+[Richard Esley Linkedin](www.linkedin.com/in/richardesley)
