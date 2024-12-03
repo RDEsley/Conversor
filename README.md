@@ -66,8 +66,7 @@ git push origin minha-feature
 Este projeto está licenciado sob a [MIT License](LICENSE).  
 
 ## Contato  
-
-Autor: Richard Esley  
-[Richard Esley GitHub](https://github.com/RDEsley)
-[Richard Esley Email](https://richardesleyso@gmail.com)
-[Richard Esley Linkedin](www.linkedin.com/in/richardesley)
+ 
+[Linkedin](www.linkedin.com/in/richardesley)<br>
+[GitHub](https://github.com/RDEsley)<br>
+[Email](https://richardesleyso@gmail.com)<br>
