@@ -69,4 +69,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 [richardesleyso@gmail.com](https://richardesleyso@gmail.com)<br>
 [Linkedin](www.linkedin.com/in/richardesley)<br>
-[GitHub](https://github.com/RDEsley)<br>
