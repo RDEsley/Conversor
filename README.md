@@ -31,7 +31,7 @@ pip install -r requirements.txt
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/seu-usuario/conversor-universal.git
-cd conversor-universal
+cd conversor
 ```  
 
 2. Instale as dependências (conforme descrito acima).  
